@@ -4,6 +4,9 @@
 
 .. default-role:: any
 
+.. literalinclude:: ../src/rtmixer.h
+   :language: c
+
 API Documentation
 -----------------
 
